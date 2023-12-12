@@ -6,6 +6,7 @@ Some of these include:
 - [x] Fix some textures not being displayed correctly.
 - [ ] Fix black lines appearing below sprites that are facing backwards (Linux issue I think).
 - [ ] Make the chicken at the end of 1-4 kill you.
+- [ ] Set background color in title screen (fixes black background when exiting from underground and castle levels)
 - [ ] Set font weight to match v0.8.
 - [ ] Showing short black screen between subareas.
  
